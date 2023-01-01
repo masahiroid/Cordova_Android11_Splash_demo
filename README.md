@@ -6,6 +6,6 @@
 
 > https://cordova.apache.org/docs/en/11.x/core/features/splashscreen/index.html#androidwindowsplashscreenanimatedicon
 
-# res
+# "res" is not "res" in the Android project file.
 
     <preference name="AndroidWindowSplashScreenAnimatedIcon" value="res/screen/android/splashscreen.xml" />
