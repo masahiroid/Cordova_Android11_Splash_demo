@@ -9,5 +9,5 @@
 # "res" is not "res" in the Android project file.
 
     <preference name="AndroidWindowSplashScreenAnimatedIcon" value="res/screen/android/splashscreen.xml" />
-    
-    <center><img border="0" width="50%" height="50%" alt="" src="https://kanamesolutions.ciao.jp/github_img/capture_01012023_112427_up.png"></center>
+
+<center><img border="0" width="50%" height="50%" alt="" src="https://kanamesolutions.ciao.jp/github_img/capture_01012023_112427_up.png"></center>
