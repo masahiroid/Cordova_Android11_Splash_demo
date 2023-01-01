@@ -7,3 +7,5 @@
 > https://cordova.apache.org/docs/en/11.x/core/features/splashscreen/index.html#androidwindowsplashscreenanimatedicon
 
 # res
+
+    <preference name="AndroidWindowSplashScreenAnimatedIcon" value="res/screen/android/splashscreen.xml" />
